@@ -6,3 +6,5 @@ Planilhas para gerar gráficos:
  4. Regressão Linear.
 
 Possuem códigos em VBA. Para contribuir com os códigos VBA, instale o [add-in vbaDeveloper](https://github.com/AdrianoBortoloto/vbaDeveloper) para exportação e importação dos componentes dos projetos em VBA.
+
+Para somente baixar as planilhas, [clique aqui](https://github.com/AdrianoBortoloto/EstatisticaExcel/archive/master.zip).
